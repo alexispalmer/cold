@@ -40,6 +40,10 @@ For each instance, annotators were asked to answer Yes or No to each of four que
 
 4. **Q4:** Is there (linguistic) distancing in the text?
 
+## Getting majority votes and fine-grained labels
+
+TODO! (August 3, 2020)
+
 ## Contact
 If you have any questions please contact carrc9953@gmail.com, alexis.palmer@unt.edu, or melissa.robinson@my.unt.edu.
 
