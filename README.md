@@ -8,11 +8,11 @@ Alexis Palmer, Christine Carr, Melissa Robinson, and Jordan Sanders. 2020 (to ap
 
 The COLD data set is intended for researchers to diagnose and assess their automatic hate speech detection systems. The corpus highlights 4 different types of complex offensive language: slurs, reclaimed slurs, adjective nominalization, distancing, and also non-offensive texts. The corpus contains a set of tweets collected from 3 different data sets: Davidson et al (2017), Waseem and Hovy (2016), and Robinson (2017). The data is annotated by 6 annotators, with each instance being annotated by at least 3 different annotators.  
 
-Please note: There are two versions of the data set: COLD-2016, and COLD. 
+Please note: There are two versions of the data set: COLD-2016, and COLD-all. 
 
 1. **COLD-2016** is the data set used for the analyses and experimental results described in the JLCL paper. This version of the data set contains 2016 instances, selected using filters aiming to capture the complex offensive language types listed above.
 
-2. **COLD**: The full COLD data set contains 2500 instances. The instances from COLDID#1 - COLDID#2152 are the original tweets, selected using filters aiming to capture the complex offensive language types listed above. Some instances originally had fewer than three annotations, and we acquired the missing annotations after having finished the work described in the paper. In addition, we randomly selected another 348 tweets from Davidson et al. (2017) to bring the total number of instances in the data set up to 2500. These instances were annotated by three of the original annotators. The randomly-selected data can be found starting with COLDID#2153.
+2. **COLD-all**: The full COLD data set contains 2500 instances. The instances from COLDID#1 - COLDID#2152 are the original tweets, selected using filters aiming to capture the complex offensive language types listed above. Some instances originally had fewer than three annotations, and we acquired the missing annotations after having finished the work described in the paper. In addition, we randomly selected another 348 tweets from Davidson et al. (2017) to bring the total number of instances in the data set up to 2500. These instances were annotated by three of the original annotators. The randomly-selected data can be found starting with COLDID#2153.
 
 ## Format and annotations
 
